@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DynamicHelp xmlns="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd" xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance" xsi:schemaLocation="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd">	
+   <LINKGROUP ID="byMarc.Net2.Library.RomanNumerals" Title="byMarc.Net2.Library.RomanNumerals Reference Help" Priority="2100">
+      <GLYPH Expanded="vs:/ctxhelp_show.gif" Collapsed="vs:/ctxhelp_hide.gif"/>
+   </LINKGROUP>
+
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.RomanNumerals.RomanNumeral.Parse" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.RomanNumerals.chm::/topic_0000000000000003.html" LinkGroup="byMarc.Net2.Library.RomanNumerals">Parse Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.RomanNumerals.RomanNumeral" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.RomanNumerals.chm::/topic_0000000000000002.html" LinkGroup="byMarc.Net2.Library.RomanNumerals">RomanNumeral Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.RomanNumerals.RomanNumeral.ToRomanNumeral" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.RomanNumerals.chm::/topic_0000000000000004.html" LinkGroup="byMarc.Net2.Library.RomanNumerals">ToRomanNumeral Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.RomanNumerals.RomanNumeral.TryParse" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.RomanNumerals.chm::/topic_0000000000000005.html" LinkGroup="byMarc.Net2.Library.RomanNumerals">TryParse Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.RomanNumerals" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.RomanNumerals.chm::/topic_0000000000000007.html" LinkGroup="byMarc.Net2.Library.RomanNumerals">byMarc.Net2.Library.RomanNumerals Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.RomanNumerals Reference" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.RomanNumerals.chm::/topic_0000000000000006.html" LinkGroup="byMarc.Net2.Library.RomanNumerals">byMarc.Net2.Library.RomanNumerals Reference</LItem>
+      </Links>
+   </Context>
+   
+
+</DynamicHelp>
+
